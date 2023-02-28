@@ -1077,4 +1077,7 @@ nav ul li a:active{
         width: 100%;
         margin-top: 320px;
        }
+	textarea{
+	   width:150px
+	   }
    }
